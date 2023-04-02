@@ -23,7 +23,7 @@ This repository contains the tasks given during the course of my software engine
 * [Learning branching](https://learngitbranching.js.org/)
 * [Effective pull requests and other good practices for teams using GitHub](https://codeinthehole.com/tips/pull-requests-and-other-good-practices-for-teams-using-github/)
 # **Learning Objectives**
-At the end of this project, I was expected to be able to [explain to anyone](), without the help of Google amd to understand:
+At the end of this project, I was expected to be able to [explain to anyone](https://fs.blog/feynman-technique/), without the help of Google and to understand:
 
 * What is source code management
 * What is Git
@@ -43,8 +43,8 @@ At the end of this project, I was expected to be able to [explain to anyone](), 
 
 ## **Requirements and Instructions**
 
-* A README.md file at the root of the alx-zero_day repo, containing a description of the repository
-* A README.md file, at the root of the folder of this project (i.e. 0x03-git), describing what this project is about
+* A README.md file at the root of the alx-pre_course repo, containing a description of the repository
+* A README.md file, at the root of the folder of this project , describing what this project is about
 * I was not to  use GitHub’s web UI, but the command line to perform the exercise (except for operations that can not possibly be done any other way than through the web UI).
 * I was to  start getting used to the command line for simple tasks because many complex tasks can only be done via the command line.
 * My  answer files were to  only contain the respective commands, and nothing else
